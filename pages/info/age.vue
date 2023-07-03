@@ -1,5 +1,8 @@
 <template>
-　<myheader></myheader>
+  <b-container>
+　　<myheader></myheader>
+    <p>私の年齢は[]歳です。</p>
+  </b-container>
 </template>
 
 <script>
